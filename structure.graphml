@@ -427,7 +427,7 @@
           <y:Geometry height="45.0" width="64.76455696202544" x="917.931053592795" y="223.8549735499707"/>
           <y:Fill color="#CC99FF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Open Sans" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="44.130859375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="64.76455696202544" x="0.0" y="0.4345703125">Ch27 (3rd ed)</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Open Sans" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="44.130859375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="64.76455696202544" x="0.0" y="0.4345703125000284">Ch27 (3rd ed)</y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -582,6 +582,28 @@
           <y:Fill color="#FF99CC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Open Sans" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.0654296875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="51.20759493670886" x="0.0" y="9.96728515625">L12</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n52">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="45.0" width="97.0" x="786.6186063354112" y="-109.44805768625213"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Open Sans" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="44.130859375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="97.0" x="0.0" y="0.4345703125">Hofmann lectures</y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n53">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="45.0" width="97.0" x="885.6956105548204" y="-109.44805768625213"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Open Sans" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="44.130859375" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="97.0" x="0.0" y="0.4345703125">Ciaramita lectures</y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
